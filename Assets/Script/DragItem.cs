@@ -11,7 +11,6 @@ public class DragItem : MonoBehaviour, IDragHandler, IPointerDownHandler, IEndDr
     private CanvasGroup canvasGroup;
     private GameObject oldSlot;
     private Transform draggedItemBox;
-    Inventory inventory;
     private void Start()
     {
         rectTransform = GetComponent<RectTransform>();
