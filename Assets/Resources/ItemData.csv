@@ -1,0 +1,14 @@
+id,name,spriteName,quantity,type
+1,armor,armor,1,armor
+2,helmet,upg_helmet,1,armor
+3,axe,axe,1,weapon
+4,sword,upg_sword,1,weapon
+5,bow,bow,1,weapon
+6,shield,upg_shield,1,weapon
+7,blue diamond,gemBlue,1,
+8,potion,potionBlue,1,
+9,axe,axe,1,weapon
+10,axe,axe,1,weapon
+11,axe,axe,1,weapon
+12,blue diamond,gemBlue,1,
+13,coin,coin,2,
